@@ -1,0 +1,25 @@
+{
+  "name": "alquiler-herramientas",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "flowbite": "^1.6.5",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@vitejs/plugin-vue": "^4.2.1",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.4"
+  }
+}
